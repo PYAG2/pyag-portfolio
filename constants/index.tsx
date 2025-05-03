@@ -64,3 +64,68 @@ export const socials = [
 )
   }
 ];
+
+
+
+export const work = [
+  {
+    name: 'Lumon Industries',
+    url: "https://lumon-landing-nine.vercel.app/",
+    about: "An AI-powered financial platform developed during the Achieve by Petra hackathon to democratize access to lending and financial advice for underserved individuals. Features include a peer-to-peer lending system with behavior-based risk assessment, and an AI financial assistant offering personalized guidance. Built with AI/ML for behavioral modeling, context-aware chatbot integration, secure cloud architecture, and responsive multi-platform design.",
+  },
+  {
+    name: 'Halfer Pay',
+    url: "https://www.halferpay.com/",
+    about: "An innovative e-commerce platform enabling customers to purchase products through flexible installment plans. Built for a client using React for the frontend and Rust for a high-performance backend architecture. Collaborated with",
+    collaborators: [{name: "Kwaame Ofori-Adjekum", url: "https://github.com/qwamicodes"}]
+  },
+  {
+    name: "Dimba Event Organizer App",
+    url: "https://organizer.dimba.app/",
+    about: "A comprehensive event management solution empowering organizers to create, control, and seamlessly manage events through the Dimba platform. Features include real-time analytics, attendee management, and customizable event pages.",
+    collaborators: []
+  },
+  {
+    name: "JNA Foundation",
+    url: "https://www.jnafoundation.org/",
+    about: "A memorial website for the Josephine Nana Asmah Foundation, established to honor the legacy of a dear friend. The platform showcases the foundation's mission, initiatives, and impact while providing ways for visitors to contribute to its causes. Collaborated with",
+    collaborators: [
+      { name: "Prince", url: "https://github.com/blackprince001" },
+      { name: "Amartey Ezekiel Elvis Junior", url: "https://github.com/ezekielelvis" }
+    ]
+  },
+  {
+    name: "Dimba",
+    url: "https://www.dimba.app/about",
+    about: "A modern event discovery and ticketing platform that connects users with local events and simplifies the ticket purchasing process. Features an intuitive interface, personalized event recommendations, and secure payment processing.",
+    collaborators: []
+  },
+  {
+    name: "404GraphVille",
+    url: "https://404graphville.vercel.app/",
+    about: "A visually striking client website featuring custom graphics, interactive elements, and responsive design. Developed to showcase the client's portfolio and services with an emphasis on user experience. Collaborated with",
+    collaborators: [
+      { name: "Nana Kwesi Asante", url: "https://www.nkasante.com/" }
+    ]
+  },
+  {
+    name: "Campus Connect",
+    url: "https://github.com/PYAG1/campusconnect?tab=readme-ov-file",
+    about: "A campus event management application designed to enhance student participation and streamline event discovery. By consolidating event information into a single platform, it empowers campus organizations to efficiently manage and promote their events. Key features include event listings, submission, management, and notifications, all tailored to improve communication and time management for students",
+    collaborators: [
+      // { name: "Nana Kwesi Asante", url: "https://www.nkasante.com/" }
+    ]
+  },
+  {
+    name: "Zomujo Foundation",
+    url: "https://zomujo.org/",
+    about: "The official digital presence for Zomujo, a mental health organization dedicated to raising awareness and providing resources. The website features educational content, support resources, and community engagement opportunities. Collaborated with",
+    collaborators: [{ name: "Nana Kwesi Asante", url: "https://www.nkasante.com/" }]
+  },
+  {
+    name: "HR Xpert",
+    url: "https://hrxpert.vercel.app/",
+    about: "A comprehensive human resources management application that streamlines administrative tasks. Administrators can manage the employee lifecycle including onboarding, offboarding, information management, leave request approvals, and department organization. Employees benefit from self-service features to update personal information, request time off, and track leave history. Developed with",
+    collaborators: [{name: "Akwasi Frimpong", url: "https://github.com/frimpsss"}]
+  }
+];

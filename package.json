@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.11",
+    "@radix-ui/react-hover-card": "^1.1.11",
     "@radix-ui/react-navigation-menu": "^1.2.10",
     "@radix-ui/react-slot": "^1.2.0",
     "class-variance-authority": "^0.7.1",
@@ -17,6 +18,7 @@
     "lucide-react": "^0.503.0",
     "motion": "^12.9.4",
     "next": "15.3.1",
+    "qss": "^3.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "tailwind-merge": "^3.2.0"

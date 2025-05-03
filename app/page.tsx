@@ -10,7 +10,7 @@ export default function Home() {
       <div className="mx-auto max-w-7xl px-6 pt-36 pb-32 sm:pt-60 lg:px-8 lg:pt-32">
         <div className="mx-auto max-w-2xl gap-x-14 lg:mx-0 relative ">
           <div>
-            <h1 className="text-balance text-lg font-semibold leading-none tracking-tighter sm:text-3xl ">
+            <h1 className=" sm:text-4xl font-bold tracking-tight text-2xl font-bricolage text-foreground">
               Papa Yaw Agyeman-Gyekye
             </h1>
             <p className="text-md sm:text-xl space-x-1">
@@ -70,7 +70,7 @@ export default function Home() {
 <div className="space-y-5">
   <div className="flex flex-col items-start gap-3">
     <p className="text-sm text-zinc-500">BLOG</p>
-    <p className="text-2xl sm:text-4xl">Recent Posts</p>
+    <p className=" sm:text-4xl font-bold font-bricolage  tracking-tight text-2xl text-center text-foreground">Recent Posts</p>
   </div>
 
 

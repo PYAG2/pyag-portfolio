@@ -56,7 +56,7 @@ const Feature = ({
       <div className="container px-4 mx-auto w-full">
         <div className="mb-16 flex flex-col items-start gap-3">
           <p className="text-sm text-zinc-500 uppercase">Projects</p>
-          <h1 className="text-center text-2xl font-semibold lg:max-w-4xl">
+          <h1 className=" sm:text-4xl font-bricolage  font-bold tracking-tight text-2xl text-center text-foreground">
             {heading}
           </h1>
         </div>
