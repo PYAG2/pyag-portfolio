@@ -14,37 +14,37 @@ interface FeatureProps {
 
 const defaultFeatures: FeatureItem[] = [
   {
-    title: "UI/UX Design",
+    title: 'Lumon Industries',
     description:
-      "Creating intuitive user experiences with modern interface design principles and user-centered methodologies.",
+      "An AI-powered financial platform developed during the Achieve by Petra hackathon to democratize access to lending and financial advice for underserved individuals. Features include a peer-to-peer lending system with behavior-based risk assessment, and an AI financial assistant offering personalized guidance. Built with AI/ML for behavioral modeling, context-aware chatbot integration, secure cloud architecture, and responsive multi-platform design.",
     image: "https://shadcnblocks.com/images/block/placeholder-1.svg",
-    href: "https://example.com/uiux-project",
-    sourceHref: "https://github.com/username/uiux-project",
+    href: "https://lumon-landing-nine.vercel.app/",
+
   },
   {
-    title: "Responsive Development",
+    title: 'Halfer Pay',
     description:
-      "Building websites that look and function perfectly across all devices and screen sizes.",
+    "An innovative e-commerce platform enabling customers to purchase products through flexible installment plans. Built for a client using React for the frontend and Rust for a high-performance backend architecture.",
     image: "https://shadcnblocks.com/images/block/placeholder-2.svg",
-    href: "https://example.com/responsive-project",
-    sourceHref: "https://github.com/username/responsive-project",
+    href: "https://www.halferpay.com/",
+
   },
   {
-    title: "Brand Integration",
+    title: "Dimba",
     description:
-      "Seamlessly incorporating your brand identity into every aspect of your website's design.",
+    "A modern event discovery and ticketing platform that connects users with local events and simplifies the ticket purchasing process. Features an intuitive interface, personalized event recommendations, and secure payment processing.",
+    image: "https://shadcnblocks.com/images/block/placeholder-2.svg",
+    href: "https://www.dimba.app/about",
+    // sourceHref: "https://github.com/username/performance-project",
+  },
+  {
+    title:"Campus Connect",
+description:"A campus event management application designed to enhance student participation and streamline event discovery. By consolidating event information into a single platform, it empowers campus organizations to efficiently manage and promote their events. Key features include event listings, submission, management, and notifications, all tailored to improve communication and time management for students",
     image: "https://shadcnblocks.com/images/block/placeholder-1.svg",
-    href: "https://example.com/brand-project",
-    sourceHref: "https://github.com/username/brand-project",
+    href:"https://www.youtube.com/watch?v=Vphm59-HwG0",
+    sourceHref: "https://github.com/PYAG1/campusconnect?tab=readme-ov-file",
   },
-  {
-    title: "Performance Optimization",
-    description:
-      "Ensuring fast loading times and smooth performance through optimized code and assets.",
-    image: "https://shadcnblocks.com/images/block/placeholder-2.svg",
-    href: "https://example.com/performance-project",
-    sourceHref: "https://github.com/username/performance-project",
-  },
+
 ];
 
 const Feature = ({

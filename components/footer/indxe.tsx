@@ -6,7 +6,7 @@
         
 <div>
             <p className="mt-8 text-sm/6 text-gray-600 dark:text-gray-300 md:order-1 md:mt-0">
-              &copy; 2024 Your Company, Inc. All rights reserved.
+              &copy; 2025 pyag, Inc. All rights reserved.
             </p>
           </div>
         </div>

@@ -68,7 +68,9 @@ export function NewMarqueeDemo() {
     >
       <div>
         <p className="text-sm text-gray-600 dark:text-gray-400">{category}</p>
-        <h3 className="mt-2 text-xl font-medium">{title}</h3>
+       <div>
+       <h3 className="mt-2 text-xl font-medium">{title}</h3>
+       </div>
         {description && (
           <p className="mt-3 text-sm text-gray-600 dark:text-gray-400 line-clamp-2">
             {description}

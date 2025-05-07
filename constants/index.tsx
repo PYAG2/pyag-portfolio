@@ -17,7 +17,7 @@ export const socials = [
   // },
   {
     name: "GitHub",
-    href: "#",
+    href: "https://github.com/PYAG1",
     icon: (props: JSX.IntrinsicAttributes & SVGProps<SVGSVGElement>) => (
       <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
         <path
@@ -31,7 +31,7 @@ export const socials = [
 
   {
     name: "LinkedIn",
-    href: "/",
+    href: "https://www.linkedin.com/in/papa-yaw-agyeman-gyekye-86053b235/",
     icon: (props: JSX.IntrinsicAttributes & SVGProps<SVGSVGElement>) => (
       <svg
       fill="currentColor"
@@ -49,7 +49,7 @@ export const socials = [
   },
   {
     name:"Mail",
-    href:"",
+    href:"mailto:gyekyeyaw3@gmail.com",
     icon:(props: JSX.IntrinsicAttributes & SVGProps<SVGSVGElement>) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
@@ -76,7 +76,7 @@ export const work = [
   {
     name: 'Halfer Pay',
     url: "https://www.halferpay.com/",
-    about: "An innovative e-commerce platform enabling customers to purchase products through flexible installment plans. Built for a client using React for the frontend and Rust for a high-performance backend architecture. Collaborated with",
+    about: "An innovative e-commerce platform enabling customers to purchase products through flexible installment plans. Built for a client using React for the frontend and Rust for a high-performance backend architecture.",
     collaborators: [{name: "Kwaame Ofori-Adjekum", url: "https://github.com/qwamicodes"}]
   },
   {

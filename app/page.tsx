@@ -71,6 +71,7 @@ export default function Home() {
   <div className="flex flex-col items-start gap-3">
     <p className="text-sm text-zinc-500">BLOG</p>
     <p className=" sm:text-4xl font-bold font-bricolage  tracking-tight text-2xl text-center text-foreground">Recent Posts</p>
+    <p className="text-zinc-300">Dummy blog😂. Still thinking of what to write</p>
   </div>
 
 

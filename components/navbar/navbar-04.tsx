@@ -1,4 +1,3 @@
-import { Logo } from "./logo";
 import { NavMenu } from "./nav-menu";
 import { NavigationSheet } from "./navigation-sheet";
 
@@ -7,8 +6,7 @@ const Navbar04Page = () => {
     <div >
       <nav className="fixed top-6 inset-x-4 h-16 bg-background z-50 max-w-screen-xl mx-auto rounded-full">
         <div className="h-full flex items-center justify-between mx-auto px-4">
-          <Logo />
-
+       <p className="text-2xl font-bold text-zinc-500">PYAG</p>
         
 
           <div className="flex items-center gap-3">
